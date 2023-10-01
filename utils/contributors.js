@@ -117,7 +117,18 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+<<<<<<< HEAD
 
+=======
+    {
+
+        handle_name: 'DhruvGarg007',
+        name: "Dhruv Garg",
+        description: "Hello everyone, myself Dhruv from EEE Part 1",
+        github: "https://github.com/DhruvGarg007"
+    },
+    
+>>>>>>> d1fbcef84c63285159241b07a8652fb6ef9b4618
 ];
 
 export default CONTRIBUTERS;
